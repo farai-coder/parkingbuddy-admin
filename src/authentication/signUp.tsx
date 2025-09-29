@@ -122,7 +122,7 @@ const SignUp: React.FC = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-gray-50 p-4">
       <div className="w-full max-w-md">
         <div className="text-center mb-6">
-          <h1 className="text-3xl font-bold text-blue-600">Parklee</h1>
+          <h1 className="text-3xl font-bold text-blue-600">ParkBuddy</h1>
           <p className="text-sm text-gray-500 mt-1">Smart Parking Solutions</p>
         </div>
 
